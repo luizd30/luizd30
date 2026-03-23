@@ -1,5 +1,9 @@
 <h1 align="center">🚀 Luiz Eduardo Dornelas</h1>
 
+<p align="center">  
+  <img src="https://readme-typing-svg.vercel.app?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&width=500&lines=Construindo+interfaces+modernas;Amando+React+e+Next.js;Sempre+aprendendo+novas+techs"/>
+</p>
+
 <p align="center">Front-End Developer &bull; JavaScript &bull; TypeScript</p>
 
 <p align="center">🎯 Construindo interfaces modernas, performáticas e bem estruturadas</p>
@@ -8,7 +12,7 @@
 
 ## Sobre mim
 
-- Desenvolvedor focado em evelução contínua
+- Desenvolvedor focado em evolução contínua
 - Apaixonado por resolver problemas com código
 - Sempre estudando novas tecnologias e boas práticas
 
@@ -45,21 +49,21 @@
 
 ## 🏗️ Projetos em Desenvolvimento
 
-### Real Estate Platform
-Plataforma font-end para visualização e busca de imóveis com foco em experiência do usuário e design moderno.
+### 🏡 Real Estate Platform
+Plataforma front-end para busca e visualização de imóveis com foco em UX moderno e performance.
 
-Funcionalidades planejadas:
-- Dack mode
+🚀 Funcionalidades:
+- Dark mode
 - Layout totalmente responsivo
-- Galeria de imagens
+- Galeria de imagens interativa
 
- ⚙️ Tecnologias:
-- NextJS
+⚙️ Tecnologias:
+- Next.js
 - TypeScript
-- Tailwind
+- Tailwind CSS
 
-📌 Status: Desenvolvimento de interface.
-📌 Objetivo: Evoluir para uma aplicação completa com backend futuramente.
+📌 Status: Em desenvolvimento  
+📌 Próximo passo: Integração com backend
 
 ### 🎨 Color Palette API
 💡 Api para criação e gerenciamento de paletas de cores.
@@ -77,14 +81,14 @@ Funcionalidades planejadas:
 
 - 🧠 Arquitetura de Software
 - 🎨 Design System
-- ⚡ Performande Web
+- ⚡ Performance Web
 - 🧪 Testes (Jest / Vitest)
 
 ---
 
 ## 📖 Filosofia
 
-> "Aprender, contruir e evoluir todos os dias."
+> "Aprender, construir e evoluir todos os dias."
 
 ---
 
