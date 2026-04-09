@@ -1,12 +1,8 @@
-<h1 align="center">🚀 Luiz Eduardo Dornelas</h1>
-
-<p align="center">  
-  <img src="https://readme-typing-svg.vercel.app?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&width=500&lines=Construindo+interfaces+modernas;Amando+React+e+Next.js;Sempre+aprendendo+novas+techs"/>
-</p>
+<h1 align="center">Luiz Eduardo Dornelas</h1>
 
 <p align="center">Front-End Developer &bull; JavaScript &bull; TypeScript</p>
 
-<p align="center">🎯 Construindo interfaces modernas, performáticas e bem estruturadas</p>
+<p align="center">Construindo interfaces modernas, performáticas e bem estruturadas</p>
 
 ---
 
@@ -18,7 +14,7 @@
 
 ---
 
-## 📚 Tech Stack
+## Tech Stack
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -28,7 +24,7 @@
 
 ---
 
-## 🐍 Contribuições
+## Contribuições
 
 <p align="center">
   <picture>
@@ -38,17 +34,17 @@
 </picture>
 </p>
 
-## 🏗️ Projetos em Desenvolvimento
+## Projetos em Desenvolvimento
 
-### 🏡 Real Estate Platform
+### Real Estate Platform
 Plataforma front-end para busca e visualização de imóveis com foco em UX moderno e performance.
 
-🚀 Funcionalidades:
+Funcionalidades:
 - Dark mode
 - Layout totalmente responsivo
 - Galeria de imagens interativa
 
-⚙️ Tecnologias:
+Tecnologias:
 - Next.js
 - TypeScript
 - Tailwind CSS
@@ -56,10 +52,10 @@ Plataforma front-end para busca e visualização de imóveis com foco em UX mode
 📌 Status: Em desenvolvimento  
 📌 Próximo passo: Integração com backend
 
-### 🎨 Color Palette API
-💡 Api para criação e gerenciamento de paletas de cores.
+### Color Palette API
+Api para criação e gerenciamento de paletas de cores.
 
-⚙️ Tecnologias:
+Tecnologias:
 - NodeJS
 - NestJS
 - Banco de dados
@@ -77,13 +73,13 @@ Plataforma front-end para busca e visualização de imóveis com foco em UX mode
 
 ---
 
-## 📖 Filosofia
+## Filosofia
 
 > "Aprender, construir e evoluir todos os dias."
 
 ---
 
-## 🎌 Objetivo
+## Objetivo
 
 Contribuir com soluções modernas, performáticas e bem estruturadas, enquanto continuo evoluindo tecnicamente e profissionalmente.
 
